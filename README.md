@@ -2,8 +2,8 @@
 - 👀 I’m interested in Front-end UI/UX Development
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me info@barishakverdi.com
-- 😄 Pronouns: Barış, Baris
+- 📫 How to reach me info@barishakverdi.com, baris.hakverdi@ogr.iu.edu.tr
+- 😄 Pronouns: Barış, Baris, BARIŞ HAKVERDİ
 - ⚡ Fun fact: ...
 
 <!---
